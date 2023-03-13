@@ -39,8 +39,11 @@ Default: `1234-4321-123456`
 ```js
 const keygen = require('mathematica-keygen');
 
-keygen('0000-00000-00000', '1234-4321-123456');
+YOUR MATH_ID (from Manual activation) ,  YOUR ACTIVATION KEY (make up one)
+            keygen('0000-00000-00000', '1234-4321-123456');
 /*
+
+// Returns list of acceptable passwords ;)
 [
   '2839-935-275::1',
   '8688-857-009::1',
